@@ -1,0 +1,3 @@
+Roses are {color1}, violets are {color2},
+I ate a {food} at noon,
+Then I {verb_past} like a {animal} under the moon.

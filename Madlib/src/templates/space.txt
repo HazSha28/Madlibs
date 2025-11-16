@@ -1,0 +1,3 @@
+Captain {name} entered the {vehicle} and blasted off into {place}.
+The stars turned {color} and the crew felt {emotion}.
+They discovered a {adjective} alien who loved to {verb}.

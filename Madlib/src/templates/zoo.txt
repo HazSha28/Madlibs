@@ -1,0 +1,2 @@
+Today I went to the zoo. I saw a {adjective1} {animal} jumping on a tree.
+It {verb_past} {adverb} towards the {place}. I was shocked to see how {adjective2} it looked!
